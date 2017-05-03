@@ -1,0 +1,16 @@
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Coca Cola 600ml',0);
+INSERT INTO productos VALUES ('Biscochos',0);
+INSERT INTO productos VALUES ('Agua 600ml',0);
+INSERT INTO productos VALUES ('Coca Cola 1l',0);
+INSERT INTO productos VALUES ('Media Lunas',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
+INSERT INTO productos VALUES ('Pizza',0);
